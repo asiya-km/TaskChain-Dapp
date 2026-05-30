@@ -120,7 +120,7 @@ npm install gh-pages --save-dev
 npm run deploy
 ```
 
-Your dApp will be live at:
+live at:
 👉 **[https://asiya-km.github.io/TaskChain-Dapp](https://asiya-km.github.io/TaskChain-Dapp)**
 
 ---
